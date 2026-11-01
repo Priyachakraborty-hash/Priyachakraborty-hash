@@ -16,9 +16,7 @@
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## ✨ About Me
+<img src="assets/sec-about.svg" width="100%" alt="About Me"/>
 
 I'm a **Software Engineer** with 6+ years of experience building secure, privacy-first distributed systems and event-driven microservices. I love clean architecture, reliable systems, and lately, agentic AI. 💫
 
@@ -33,9 +31,7 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 🦋 Tech Stack
+<img src="assets/sec-tech.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -97,9 +93,7 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 💎 Experience
+<img src="assets/sec-experience.svg" width="100%" alt="Experience"/>
 
 | 🌸 Role | 🏢 Company | 📅 When | ✨ Highlights |
 |:--|:--|:--|:--|
@@ -108,9 +102,7 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 🌺 Featured Projects
+<img src="assets/sec-projects.svg" width="100%" alt="Featured Projects"/>
 
 ### 🌦️ [WeatherWheels: Smart Marketplace](https://github.com/Priyachakraborty-hash/weatherwheels-project)
 An event-driven microservices platform that recommends agricultural equipment using real-time weather data and seasonal patterns.
@@ -150,9 +142,7 @@ An agentic AI system that analyzes Azure cost data and flags over-provisioned re
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 🌼 GitHub Stats
+<img src="assets/sec-stats.svg" width="100%" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -167,9 +157,7 @@ An agentic AI system that analyzes Azure cost data and flags over-provisioned re
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## 💌 Let's Connect
+<img src="assets/sec-connect.svg" width="100%" alt="Let's Connect"/>
 
 <div align="center">
 
