@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Priya%20Chakraborty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%8C%B8%20software%20engineer%20%C2%B7%20distributed%20systems%20%C2%B7%20AI%20%F0%9F%8C%B8&descAlignY=60&descSize=18" width="100%" alt="header banner"/>
+<img src="assets/banner.svg" width="100%" alt="Priya Chakraborty - sparkling banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=FF6FA5&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Priya+%F0%9F%8C%B7;Software+Engineer+%7C+MS+CS+(AI)+%40+Binghamton+%F0%9F%8E%93;Secure%2C+event-driven+microservices+on+AWS+%26+GCP+%E2%98%81%EF%B8%8F;Building+agentic+AI+%26+RAG+systems+%F0%9F%A4%96;Always+learning%2C+always+blooming+%F0%9F%8C%BB" alt="Typing SVG" />
@@ -10,13 +10,15 @@
 
 <br/><br/>
 
-🌷 ⋆｡°✩ 🌸 ⋆｡°✩ 🌺 ⋆｡°✩ 🌼 ⋆｡°✩ 🌸 ⋆｡°✩ 🌷
+✨ 🌷 ⋆｡°✩ 🌸 ⋆｡°✩ 🌺 ⋆｡°✩ 🌼 ⋆｡°✩ 🌸 ⋆｡°✩ 🌷 ✨
 
 </div>
 
 <br/>
 
-## 🌸 About Me
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ✨ About Me
 
 I'm a **Software Engineer** with 6+ years of experience building secure, privacy-first distributed systems and event-driven microservices. I love clean architecture, reliable systems, and lately, agentic AI. 💫
 
@@ -31,7 +33,9 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 
 <br/>
 
-## 🌷 Tech Stack
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🦋 Tech Stack
 
 <div align="center">
 
@@ -93,7 +97,9 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 
 <br/>
 
-## 💼 Experience
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 💎 Experience
 
 | 🌸 Role | 🏢 Company | 📅 When | ✨ Highlights |
 |:--|:--|:--|:--|
@@ -101,6 +107,8 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 | **Systems Engineer** | Thomson Reuters (via TCS) | Mar 2018 – Feb 2023 | Led secure backend architecture in Java/Spring, resilient privacy-first APIs, improved performance by 80%, mentored the team |
 
 <br/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🌺 Featured Projects
 
@@ -142,6 +150,8 @@ An agentic AI system that analyzes Azure cost data and flags over-provisioned re
 
 <br/>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## 🌼 GitHub Stats
 
 <div align="center">
@@ -157,7 +167,9 @@ An agentic AI system that analyzes Azure cost data and flags over-provisioned re
 
 <br/>
 
-## 🌻 Let's Connect
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 💌 Let's Connect
 
 <div align="center">
 
@@ -169,6 +181,8 @@ An agentic AI system that analyzes Azure cost data and flags over-provisioned re
 
 > 🌸 *"Be a flower that blooms in code."* 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/divider.svg" width="100%" alt="sparkle divider"/>
+
+✨ 🌸 ✨ thanks for stopping by ✨ 🌸 ✨
 
 </div>
