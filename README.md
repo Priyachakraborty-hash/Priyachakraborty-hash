@@ -142,20 +142,7 @@ An agentic AI system that analyzes Azure cost data and flags over-provisioned re
 
 <br/>
 
-<img src="assets/sec-stats.svg" width="100%" alt="GitHub Stats"/>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyachakraborty-hash&show_icons=true&hide_border=true&title_color=FF6FA5&icon_color=FF9ECB&text_color=8A5A74&bg_color=FFF0F6" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyachakraborty-hash&layout=compact&hide_border=true&title_color=FF6FA5&text_color=8A5A74&bg_color=FFF0F6" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Priyachakraborty-hash&hide_border=true&background=FFF0F6&ring=FF6FA5&fire=FF9ECB&currStreakNum=8A5A74&sideNums=8A5A74&currStreakLabel=FF6FA5&sideLabels=FF9ECB&dates=B88AA0" alt="GitHub streak"/>
-
-</div>
-
-<br/>
 
 <img src="assets/sec-connect.svg" width="100%" alt="Let's Connect"/>
 
