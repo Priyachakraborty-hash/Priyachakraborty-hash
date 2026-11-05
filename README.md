@@ -25,7 +25,7 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 🎓 Education     →  MS Computer Science (AI track), SUNY Binghamton
 📍 Based in      →  New York
 💼 Experience    →  John Deere (via HCL) · Thomson Reuters (via TCS)
-🌱 Exploring     →  Agentic AI, RAG, LLM integrations
+🌱 Exploring     →  Agentic AI, RAG, LLM integrations, AI security
 💬 Ask me about  →  Spring Boot, Kafka, Kubernetes, system design
 ```
 
