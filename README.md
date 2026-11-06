@@ -22,7 +22,7 @@ I'm a **Software Engineer** with 6+ years of experience building secure, privacy
 
 ```text
 💐 Name          →  Priya Chakraborty
-🎓 Education     →  MS Computer Science (AI track), SUNY Binghamton
+🎓 Education     →  MS Computer Science with AI track, SUNY Binghamton
 📍 Based in      →  New York
 💼 Experience    →  John Deere (via HCL) · Thomson Reuters (via TCS)
 🌱 Exploring     →  Agentic AI, RAG, LLM integrations, AI security
