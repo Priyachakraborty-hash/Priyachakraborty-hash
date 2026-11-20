@@ -18,7 +18,7 @@
 
 <img src="assets/sec-about.svg" width="100%" alt="About Me"/>
 
-I'm a **Software Engineer** with 6+ years of experience building secure, privacy-first distributed systems and event-driven microservices. I love clean architecture, reliable systems, and lately, agentic AI. 💫
+I'm a **Software Engineer ** with 6+ years of experience building secure, privacy-first distributed systems and event-driven microservices. I love clean architecture, reliable systems, and lately, agentic AI. 💫
 
 ```text
 💐 Name          →  Priya Chakraborty
